@@ -1,0 +1,28 @@
+.setGame {
+  display: flex;
+  align-items: center;
+  margin-bottom: 22px;
+}
+.setGame__title {
+  font-size: 20px;
+  font-weight: bold;
+  margin-right: 5px;
+}
+
+.playGame {
+  display: flex;
+}
+.playGame__title {
+  font-size: 18px;
+  margin-right: 5px;
+}
+
+.gameBoard {
+  font-size: 18px;
+  margin: 0;
+}
+
+.result {
+  font-size: 18px;
+  font-weight: bold;
+}
